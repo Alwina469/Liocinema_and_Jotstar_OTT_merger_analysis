@@ -4,9 +4,18 @@
 
 ## Function: Strategy & Operations
 
+---
 ## CONTENTS:
--[INTRODUCTION](
+- [INTRODUCTION](#INTRODUCTION)
+- [OBJECTIVE](#OBJECTIVE)
+- [SKILLS AND TOOLS USED](#SKILLS_AND_TOOLS_USED)
+- [DATA OVERVIEW](#DATA_OVERVIEW)
+- [KEY FINDINGS AND INSIGHTS](#KEY_FINDINGS_AND_INSIGHTS)
+- [DASHBOARD HIGHLIGHTS](#DASHBOARD_HIGHLIGHTS)
+- [IMPORTANCE OF THE PROJECT](#IMPORTANCE_OF_THE_PROJECT)
+- [CONCLUSION](#CONCLUSION)
 
+---
 ## INTRODUCTION
 
 In the dynamic and ever-evolving Indian OTT landscape, LioCinema, a leading telecommunications-backed streaming platform, is set to merge with Jotstar, one of the country’s top-tier content platforms. 
@@ -16,6 +25,8 @@ In the dynamic and ever-evolving Indian OTT landscape, LioCinema, a leading tele
 As a Data Analyst I conduct an in-depth performance evaluation and user behavior analysis for both platforms. 
 
 This analysis serves as a foundational blueprint for the merger, helping stakeholders make informed decisions on product alignment, content strategies, and user engagement optimization.
+
+---
 
 ## OBJECTIVE
 
@@ -33,11 +44,14 @@ To evaluate platform-level performance and subscriber behavior trends across Lio
 
 - Strategic Alignment Opportunities
 
+---
+
 ## SKILLS AND TOOLS USED
 
 - **MySql** : Used for data cleaning , exploration , querying , aggregation , joins , and trend analysis across both batabases(liocinema_db , jotstar_db)
 - **Power BI** :Designed an interactive and comparative dashboard
 
+---
 
 ## DATA OVERVIEW
 
@@ -52,6 +66,7 @@ jotstar_db (44,620 users)
 
 - **Tables Explored:**  User Profile, Subscriptions, Activity Logs, Content Library
 
+---
 
 ## KEY FINDINGS AND INSIGHTS
 
@@ -120,6 +135,7 @@ Inactive users concentrated in:
 
 - Free plans
 
+---
 
 ## DASHBOARD HIGHLIGHTS
 
@@ -133,7 +149,7 @@ The data visualizations utilize a combination of bar charts, line graphs, and pi
 
 ### Results and Insights
 
-#### Overview :
+#### * Overview :
 - **Liocinema:**
 
 Total Subscribers: 183K
@@ -150,21 +166,31 @@ Active Users: 38K
 
 Overall Watch Time: 942 million hours
 
-#### Subscriber Analysis :
 
-- The **age demographic** of Jotstar indicates a higher concentration of users aged 25-34 (45%), while Liocinema shows a diverse age distribution with significant users aged 18-24.
 
-- Jotstar has a higher percentage of active subscribers on premium plans (85.09%), indicating effective strategies for user engagement and retention.
+![OVERVIEW](https://github.com/user-attachments/assets/fe829729-611f-483e-ad04-633fc25015cc)
+
+
+
+#### * Subscriber Analysis :
+
+- The **age demographic** of Jotstar indicates a higher concentration of users aged 25-34 , while Liocinema shows a diverse age distribution with significant users aged 18-24.
+
+- Jotstar has a higher percentage of active subscribers on premium plans, indicating effective strategies for user engagement and retention.
 
 - City tier analysis reveals that both platforms have room for growth in tier-2 cities, suggesting potential market expansion.
 
 
-#### Content and Engagement Analysis :
+![SUBSCRIBERS ANALYSIS](https://github.com/user-attachments/assets/ebc38c7f-e97e-4f30-8d4a-db551732895c)
+
+
+
+#### * Content and Engagement Analysis :
 
 **Most Viewed Genres:**
 
-- Jotstar: Live Matches (44K views)
-- Liocinema: Drama (55K views)
+- Jotstar: Live Matches 
+- Liocinema: Drama 
 
 The platforms has a balanced content distribution across languages, with the majority available in English and Hindi, but highlights a growing audience in regional languages like Telugu and Tamil.
 
@@ -178,6 +204,11 @@ The platforms has a balanced content distribution across languages, with the maj
 - Liocinema, despite having a larger user base, faces challenges in maintaining steady growth rates.
 
 
+![CONTENT AND ENGAGEMENT ANALYSIS](https://github.com/user-attachments/assets/55afdff2-8a41-47d2-a08e-3cf7ffdbe89e)
+
+
+
+---
 
 ## IMPORTANCE OF THE PROJECT
 
@@ -195,7 +226,7 @@ With deep insights into user behavior, churn, and monetization patterns, Lio’s
 
 - Align technical infrastructure with consumer trends
 
-
+---
 
 ## CONCLUSION
 
